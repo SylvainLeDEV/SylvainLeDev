@@ -49,7 +49,4 @@ Actually :
 <!--START_SECTION:activity-->
 
 ### Spotify Playing Now 🎧
-
-
 [<img src="https://novatorem-sylvainledev.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/wa1rmnn94mkl27eu9qwp4n5p4)
-
