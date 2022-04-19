@@ -7,7 +7,7 @@ I'm a web developer, more specialized in Javascript, Node.js. I'm self-teaching,
 Actually : 
 - 👀 I'm looking for a new Job in web development.
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me: dev.tess.sylvain@gmail.com or [Linkedin](https://www.linkedin.com/in/tessier-sylvain/)
 - ⚡ Fun fact: I'm Diver, traveller and fan of crypto money.
 <!--
