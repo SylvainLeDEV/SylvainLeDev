@@ -1,6 +1,6 @@
 ### Sylvain 
 
-I'm Sylvain from France, living in Toulouse near Blagnac. Blagnac is recognized for Airbus company.✈️
+I'm Sylvain from France, living in Toulouse near Blagnac. Blagnac is renowned for Airbus company.✈️️
 
 I'm a web developer, more specialized in Javascript, Node.js. I'm self-teaching, motivated, I like to put in practice everything I can discover.
 
