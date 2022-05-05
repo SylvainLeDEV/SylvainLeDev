@@ -47,8 +47,8 @@ Actually :
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SylvainLeDEV/SylvainLeDev.github.io/pull/1) in [SylvainLeDEV/SylvainLeDev.github.io](https://github.com/SylvainLeDEV/SylvainLeDev.github.io)
-2. 💪 Opened PR [#1](https://github.com/SylvainLeDEV/SylvainLeDev.github.io/pull/1) in [SylvainLeDEV/SylvainLeDev.github.io](https://github.com/SylvainLeDEV/SylvainLeDev.github.io)
-3. 💪 Opened PR [#4](https://github.com/SylvainLeDEV/TessierSylvain_7_16012022/pull/4) in [SylvainLeDEV/TessierSylvain_7_16012022](https://github.com/SylvainLeDEV/TessierSylvain_7_16012022)
+1. 🎉 Merged PR [#2](https://github.com/SylvainLeDEV/SylvainLeDev.github.io/pull/2) in [SylvainLeDEV/SylvainLeDev.github.io](https://github.com/SylvainLeDEV/SylvainLeDev.github.io)
+2. 💪 Opened PR [#2](https://github.com/SylvainLeDEV/SylvainLeDev.github.io/pull/2) in [SylvainLeDEV/SylvainLeDev.github.io](https://github.com/SylvainLeDEV/SylvainLeDev.github.io)
+3. 🎉 Merged PR [#1](https://github.com/SylvainLeDEV/SylvainLeDev.github.io/pull/1) in [SylvainLeDEV/SylvainLeDev.github.io](https://github.com/SylvainLeDEV/SylvainLeDev.github.io)
 <!--END_SECTION:activity-->
 
