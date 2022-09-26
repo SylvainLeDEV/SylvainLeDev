@@ -14,6 +14,8 @@ Actually :
 [//]: # (- 👯 I’m looking to collaborate on ...)
 [//]: # (- 🤔 I’m looking for help with )
 -->
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/fr-fr/)
@@ -31,6 +33,7 @@ Actually :
 [<img align="left" alt="NPM" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
 
 <br/>
+
 
 ### My daily routine :
 
